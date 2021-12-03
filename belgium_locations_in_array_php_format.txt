@@ -1606,7 +1606,6 @@
 	"Millen" => "Millen",
 	"Milmort" => "Milmort",
 	"Minderhout" => "Minderhout",
-	"Ministère De La Région De Bruxelles Capitale" => "Ministère De La Région De Bruxelles Capitale",
 	"Mirwart" => "Mirwart",
 	"Modave" => "Modave",
 	"Moen" => "Moen",

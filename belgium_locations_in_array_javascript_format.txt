@@ -1606,7 +1606,6 @@
 	"Millen",
 	"Milmort",
 	"Minderhout",
-	"Ministère De La Région De Bruxelles Capitale",De Bruxelles Capitale",
 	"Mirwart",
 	"Modave",
 	"Moen",
