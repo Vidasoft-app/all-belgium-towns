@@ -382,7 +382,6 @@
 	"Brussegem",
 	"Brustem",
 	"Bruxelles",
-	"Bruxelles X",
 	"Bruyelle",
 	"Brye",
 	"Budingen",

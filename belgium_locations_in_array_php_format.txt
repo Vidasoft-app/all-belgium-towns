@@ -382,7 +382,6 @@
 	"Brussegem" => "Brussegem",
 	"Brustem" => "Brustem",
 	"Bruxelles" => "Bruxelles",
-	"Bruxelles X" => "Bruxelles X",
 	"Bruyelle" => "Bruyelle",
 	"Brye" => "Brye",
 	"Budingen" => "Budingen",
